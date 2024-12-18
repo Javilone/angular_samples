@@ -1,2 +1,3 @@
-- solution/app contiene ejemplos de componentes base de Angular
-- solution-2/app amplía la app de solution con el uso de formularios reactivos
+- solution/app contiene ejemplos de componentes base de Angular.
+- solution-2/app amplía la app de solution con el uso de formularios reactivos.
+- solution-3/app incluye todo lo anterior y app routing.
